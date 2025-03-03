@@ -4,5 +4,5 @@ bitcoin-price-monitor/
 ├── requirements.txt
 ├── bitcoin_monitor_pro.py
 ├── screenshots/
-│   └── app_screenshot.png
+│   └── screenshot.png
 └── .gitignore
